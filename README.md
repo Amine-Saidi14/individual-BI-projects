@@ -110,6 +110,8 @@ Insights obtained:
 Distribution of smartphones across price segments
 
 Overview of specification configurations within the portfolio
+<img width="945" height="559" alt="image" src="https://github.com/user-attachments/assets/9e6b4f56-1999-41a1-8ef4-4cbed49c4751" />
+
 
 Dashboard 2 — Performance Analysis
 
@@ -130,6 +132,7 @@ Insights obtained:
 Relationship between technical specifications and user satisfaction
 
 Identification of specification levels associated with higher ratings
+<img width="945" height="539" alt="image" src="https://github.com/user-attachments/assets/4fdbd7b2-0e88-4fd4-9de8-9de317ef3132" />
 
 Dashboard 3 — Product Value Analysis
 
@@ -160,6 +163,7 @@ Customer ratings are consistently high across most models, typically between 4.0
 Higher RAM and storage configurations tend to correlate with slightly higher ratings.
 
 Some mid-range devices deliver strong specifications and ratings at relatively moderate prices, representing strong value propositions.
+<img width="945" height="571" alt="image" src="https://github.com/user-attachments/assets/5b11f430-a733-4243-b5e9-07a6fb090252" />
 
 Business Value
 
