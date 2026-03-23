@@ -1,0 +1,408 @@
+name,ratings,price,camera,display,battery,storage,ram,processor,android_version
+"SAMSUNG Galaxy F13 (Sunrise Copper, 64 GB)",4.3,9499,50,other_types,6000,64,4,not mentioned,12
+"SAMSUNG Galaxy F13 (Waterfall Blue, 128 GB)",4.3,10499,50,other_types,6000,128,4,not mentioned,12
+"SAMSUNG Galaxy F13 (Nightsky Green, 128 GB)",4.3,10499,50,other_types,6000,128,4,not mentioned,12
+"SAMSUNG Galaxy F13 (Sunrise Copper, 128 GB)",4.3,10499,50,other_types,6000,128,4,not mentioned,12
+"SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)",4.3,15499,50,other_types,5000,128,6,Snapdragon750GProcessor,12
+"SAMSUNG Galaxy F23 5G (Forest Green, 128 GB)",4.3,15499,50,other_types,5000,128,6,Snapdragon750GProcessor,12
+"SAMSUNG Galaxy F04 (Jade Purple, 64 GB)",4.2,6999,13,LCD,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy F04 (Opal Green, 64 GB)",4.2,6999,13,LCD,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)",4.2,13990,50,LCD,6000,128,6,not mentioned,13
+"SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)",4.3,15499,50,other_types,5000,128,6,Snapdragon750GProcessor,12
+"SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)",4.2,13990,50,LCD,6000,128,6,not mentioned,13
+"SAMSUNG Galaxy M04 (Dark Blue, 64 GB)",4.1,8093,13,other_types,5000,64,4,Heilo35P,12
+"SAMSUNG Galaxy F13 (Waterfall Blue, 64 GB)",4.3,9499,50,other_types,6000,64,4,not mentioned,12
+"SAMSUNG Galaxy M04 (Light Green, 64 GB)",4.1,8185,13,other_types,5000,64,4,Heilo35P,12
+"SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)",4.2,12990,50,LCD,6000,128,4,not mentioned,13
+"SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)",4.2,12990,50,LCD,6000,128,4,not mentioned,13
+"SAMSUNG Galaxy F13 (Nightsky Green, 64 GB)",4.3,9499,50,other_types,6000,64,4,not mentioned,12
+"SAMSUNG Galaxy M33 5G (Mystique Green, 128 GB)",4.2,16479,50,other_types,6000,128,6,not mentioned,13
+"SAMSUNG Galaxy F14 5G (B.A.E. Purple, 128 GB)",4.2,13990,13,LCD,6000,128,6,Heilo35P,12
+"SAMSUNG Galaxy M04 (Light Green, 128 GB)",4.1,9320,50,other_types,5000,128,4,not mentioned,12
+"SAMSUNG Galaxy M13 (Aqua Green, 128 GB)",4.2,13999,0,other_types,6000,128,6,not mentioned,13
+"SAMSUNG GALAXY M13 5G (Midnight Blue, 128 GB)",4.1,14235,50,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy M33 5G (Mystique Green, 128 GB)",4.2,16479,50,other_types,6000,128,6,not mentioned,1
+"SAMSUNG GALAXY M13 (Aqua Green, 64 GB)",4.2,11195,50,other_types,6000,64,4,not mentioned,12
+"SAMSUNG GALAXY M13 (Midnight Blue, 128 GB)",4.2,12879,50,other_types,6000,128,6,not mentioned,12
+"SAMSUNG Galaxy M33 5G (Emerald Brown, 128 GB)",4.2,17678,50,other_types,6000,128,8,Heilo35P,12
+"SAMSUNG Galaxy M04 (Dark Blue, 128 GB)",4.1,10470,13,other_types,5000,128,4,not mentioned,12
+"SAMSUNG GALAXY M13 (Midnight Blue, 64 GB)",4.2,11199,50,other_types,6000,64,4,not mentioned,12
+"SAMSUNG Galaxy M33 5G (Deep Ocean Blue, 128 GB)",4.2,16899,50,other_types,6000,128,6,not mentioned,12
+"SAMSUNG Galaxy A23 (Black, 128 GB)",4.2,17499,50,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy S20 FE 5G (Cloud Mint, 128 GB)",4.2,27585,50,other_types,4500,128,8,not mentioned,12
+"SAMSUNG GALAXY M13 5G (Stardust Brown, 64 GB)",4.1,12830,48,other_types,5000,64,4,"Dimensity1080,",13
+"SAMSUNG GALAXY M13 (Midnight Blue, 64 GB)",4.2,11599,48,other_types,6000,64,4,"Dimensity1080,",13
+"SAMSUNG Galaxy S21 FE 5G (Graphite, 128 GB)",4.3,31999,32,AMOLED,4500,128,8,not mentioned,12
+"SAMSUNG Galaxy S21 FE 5G (Lavender, 128 GB)",4.3,31999,50,AMOLED,4500,128,8,not mentioned,12
+"SAMSUNG GALAXY M13 5G (?Stardust Brown, 128 GB)",4.1,14298,32,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy A34 5G (Awesome Violet, 128 GB)",4.2,30999,48,other_types,5000,128,8,"Dimensity1080,",13
+"SAMSUNG Galaxy S21 FE 5G (White, 128 GB)",4.3,31999,32,AMOLED,4500,128,8,not mentioned,12
+"SAMSUNG GALAXY M13 (Stardust Brown, 128 GB)",4.2,12894,50,other_types,6000,128,6,not mentioned,12
+"SAMSUNG Galaxy S20 FE 5G (Cloud Navy, 128 GB)",4.2,27440,12,other_types,4500,128,8,not mentioned,10
+"SAMSUNG Galaxy A13 (Peach, 128 GB)",4.2,16499,50,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy A23 5G (Light Blue, 128 GB)",3.8,23990,50,LCD,5000,128,8,Snapdragon695,12
+"SAMSUNG Galaxy A14 5G (Black, 128 GB)",4.0,17999,50,LCD,5000,128,6,not mentioned,13
+"SAMSUNG Galaxy A04s (Copper, 64 GB)",4.1,12499,50,other_types,5000,64,4,not mentioned,12
+"SAMSUNG GALAXY M13 5G (Aqua Green, 128 GB)",4.1,14049,50,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy M33 5G (Emerald Brown, 128 GB)",4.2,16790,50,other_types,6000,128,6,not mentioned,12
+"SAMSUNG GALAXY M13 5G (Aqua Green, 64 GB)",4.1,12730,50,other_types,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy A03 Core (Onyx, 32 GB)",4.1,6990,8,other_types,5000,32,2,not mentioned,11
+"SAMSUNG Galaxy A14 5G (Dark Red, 128 GB)",4.1,19999,50,LCD,5000,128,8,not mentioned,13
+"SAMSUNG Galaxy A14 5G (Dark Red, 128 GB)",4.0,17999,50,LCD,5000,128,6,not mentioned,13
+"SAMSUNG Galaxy A14 5G (Black, 64 GB)",4.1,15999,50,LCD,5000,64,4,not mentioned,13
+"SAMSUNG Galaxy S20 FE (Cloud Mint, 128 GB)",4.0,27500,12,other_types,4500,128,8,not mentioned,10
+"SAMSUNG Galaxy A04e (Light Blue, 64 GB)",4.2,9999,13,LCD,5000,64,3,not mentioned,13
+"SAMSUNG Galaxy A14 5G (Black, 128 GB)",4.1,19999,50,LCD,5000,128,8,not mentioned,13
+"SAMSUNG Galaxy A14 5G (Black, 64 GB)",4.1,15999,50,LCD,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy A04 (Black, 128 GB)",4.0,11990,50,LCD,5000,128,4,Gen8,13
+"SAMSUNG Galaxy S23 Plus 5G (Cream, 256 GB)",4.5,29463,50,HD+ AMOLED,4700,256,8,Snapdragon750GProcessor,12
+"SAMSUNG Galaxy F23 5G (Aqua Blue, 128 GB)",4.2,14499,50,other_types,5000,128,4,not mentioned,12
+"SAMSUNG Galaxy A04s (Green, 64 GB)",4.1,12499,50,other_types,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy A23 (Peach, 128 GB)",4.2,17499,50,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy A04 (Green, 128 GB)",4.0,12999,50,LCD,5000,128,4,Snapdragon888,11
+"SAMSUNG Galaxy A04s (Black, 64 GB)",4.1,12499,50,other_types,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy A13 (Green, 128 GB)",4.2,16295,50,other_types,5000,128,6,not mentioned,11
+"SAMSUNG Galaxy A03 Core (Green, 32 GB)",4.1,8403,8,LCD,5000,32,2,not mentioned,13
+"SAMSUNG Galaxy A14 5G (Light Green, 128 GB)",4.1,19999,50,LCD,5000,128,8,Snapdragon750GProcessor,12
+"SAMSUNG Galaxy F23 5G (Forest Green, 128 GB)",4.2,14499,50,other_types,5000,128,4,not mentioned,11
+"SAMSUNG Galaxy M12 (White, 64 GB)",4.2,10999,48,other_types,6000,64,4,Snapdragon720GProcessor,11
+"SAMSUNG Galaxy A52 (Awesome Blue, 128 GB)",4.3,25980,64,HD+ AMOLED,4500,128,6,not mentioned,12
+"SAMSUNG Galaxy A23 (Blue, 128 GB)",4.3,19990,50,other_types,5000,128,8,not mentioned,13
+"SAMSUNG Galaxy A14 5G (Light Green, 64 GB)",4.1,15999,50,LCD,5000,64,4,not mentioned,11
+"SAMSUNG Galaxy M12 (Black, 64 GB)",4.2,12498,48,other_types,6000,64,4,not mentioned,13
+"SAMSUNG Galaxy A14 5G (Dark Red, 64 GB)",4.1,15999,50,LCD,5000,64,4,not mentioned,13
+"SAMSUNG Galaxy A23 5G (Orange, 128 GB)",4.1,21999,50,LCD,5000,128,6,Snapdragon695,12
+"SAMSUNG Galaxy A23 5G (Silver, 128 GB)",4.1,21999,50,LCD,5000,128,6,Snapdragon695,12
+"SAMSUNG Galaxy A03 Core (Bronze, 32 GB)",4.1,7199,8,LCD,5000,32,2,not mentioned,11
+"SAMSUNG Galaxy Z Flip4 5G (Graphite, 256 GB)",3.7,29463,12,HD+ AMOLED,3700,256,8,Snapdragon1P,12
+"SAMSUNG Galaxy A03 (Black, 32 GB)",4.1,9400,48,other_types,5000,32,3,not mentioned,11
+"SAMSUNG Galaxy A23 5G (Silver, 128 GB)",3.8,23999,50,LCD,5000,128,8,Snapdragon695,12
+"SAMSUNG Galaxy A34 5G (Awesome Silver, 128 GB)",4.2,30999,48,other_types,5000,128,8,"Dimensity1080,",13
+"SAMSUNG Galaxy F62 (Laser Blue, 128 GB)",4.3,31999,64,HD+ AMOLED,7000,128,8,not mentioned,11
+"SAMSUNG Galaxy S20 FE 5G (Cloud Navy, 128 GB)",4.2,27995,12,other_types,4500,128,8,not mentioned,10
+"SAMSUNG Galaxy M53 5G (Deep Ocean Blue, 128 GB)",4.0,29999,108,other_types,5000,128,8,not mentioned,12
+"SAMSUNG Galaxy A03 Core (Black, 32 GB)",4.1,7189,8,LCD,5000,32,2,not mentioned,11
+"SAMSUNG Galaxy S22 Ultra 5G (Green, 256 GB)",4.3,17964,108,AMOLED,5000,256,12,not mentioned,12
+"SAMSUNG GALAXY M13 (Stardust Brown, 64 GB)",4.2,10490,50,other_types,6000,64,4,not mentioned,12
+"SAMSUNG Galaxy M12 (Black, 64 GB)",4.2,12498,48,other_types,6000,64,4,not mentioned,11
+"SAMSUNG Galaxy A34 5G (Awesome Graphite, 128 GB)",4.2,30999,48,other_types,5000,128,8,"Dimensity1080,",13
+"SAMSUNG Galaxy S22 Ultra 5G (Phantom Black, 256 GB)",4.3,19464,108,AMOLED,5000,256,12,not mentioned,12
+"SAMSUNG Galaxy S23 5G (Green, 256 GB)",4.5,14463,50,HD+ AMOLED,3900,256,8,Gen8,13
+"SAMSUNG Galaxy S23 5G (Green, 128 GB)",4.5,9463,50,HD+ AMOLED,3900,128,8,Gen8,13
+"SAMSUNG Galaxy A03 Core (Mint, 32 GB)",4.1,7199,8,other_types,5000,32,2,not mentioned,11
+"SAMSUNG Galaxy S23 5G (Lavender, 256 GB)",4.5,14463,50,HD+ AMOLED,3900,256,8,Gen8,13
+"SAMSUNG Galaxy M32 (Black, 64 GB)",4.2,14999,64,other_types,6000,64,4,not mentioned,11
+"SAMSUNG Galaxy S23 5G (Phantom Black, 128 GB)",4.5,9463,50,HD+ AMOLED,3900,128,8,Gen8,13
+"SAMSUNG Galaxy S23 5G (Phantom Black, 256 GB)",4.5,14463,50,HD+ AMOLED,3900,256,8,Gen8,13
+"SAMSUNG Galaxy A34 5G (Awesome Lime, 128 GB)",4.2,30999,48,other_types,5000,128,8,"Dimensity1080,",13
+"SAMSUNG Galaxy A13 (Black, 128 GB)",4.2,16499,50,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy S23 5G (Cream, 256 GB)",4.5,14463,50,HD+ AMOLED,3900,256,8,Gen8,13
+"SAMSUNG Galaxy S23 5G (Cream, 128 GB)",4.5,9463,50,HD+ AMOLED,3900,128,8,Gen8,13
+"SAMSUNG Galaxy M11 (Metallic Blue, 64 GB)",4.2,12490,13,LCD,5000,64,4,Snapdragon(SDM450-F01),10
+"SAMSUNG Galaxy A53 (Awesome White, 128 GB)",4.0,31999,64,HD+ AMOLED,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy S23 5G (Lavender, 128 GB)",4.5,9463,50,HD+ AMOLED,3900,128,8,Gen8,13
+"SAMSUNG Galaxy F23 5G (Copper Blush, 128 GB)",4.2,14499,50,other_types,5000,128,4,Snapdragon750GProcessor,12
+"SAMSUNG Galaxy A33 (Awesome Blue, 128 GB)",4.1,27499,48,other_types,5000,128,8,not mentioned,12
+"SAMSUNG Galaxy A33 (Awesome Black, 128 GB)",4.1,27990,48,other_types,5000,128,8,not mentioned,12
+"SAMSUNG Galaxy M32 (Black, 128 GB)",4.2,14995,64,other_types,6000,128,6,not mentioned,11
+"SAMSUNG Galaxy M31 (Ocean Blue, 64 GB)",4.3,18999,64,other_types,6000,64,6,not mentioned,10
+"SAMSUNG Galaxy A03 (Red, 32 GB)",4.1,9498,48,other_types,5000,32,3,not mentioned,11
+"SAMSUNG Galaxy A52 (Awesome Blue, 128 GB)",4.3,24990,64,HD+ AMOLED,4500,128,8,Snapdragon720GProcessor,11
+"SAMSUNG Galaxy A23 5G (Orange, 128 GB)",3.8,23999,50,LCD,5000,128,8,Snapdragon695,12
+"SAMSUNG Galaxy A04e (Copper, 64 GB)",4.2,9999,13,LCD,5000,64,3,not mentioned,12
+"SAMSUNG Galaxy M34 5G without charger (Prism Silver, 128 GB)",4.3,21399,50,other_types,6000,128,6,not mentioned,13
+"SAMSUNG Galaxy F62 (Laser Green, 128 GB)",4.2,25999,64,HD+ AMOLED,7000,128,8,not mentioned,11
+"SAMSUNG Galaxy M32 5G (Slate Black, 128 GB)",4.2,20999,48,other_types,5000,128,8,Dimensity720,11
+"SAMSUNG Galaxy M12 (Blue, 64 GB)",4.3,10999,48,other_types,6000,64,4,not mentioned,11
+"SAMSUNG Galaxy S22 Ultra 5G (Phantom Black, 256 GB)",4.3,20463,108,AMOLED,5000,256,12,not mentioned,12
+"SAMSUNG Galaxy M12 (Blue, 128 GB)",4.3,15499,48,other_types,6000,128,6,not mentioned,11
+"SAMSUNG Galaxy F12 (Sky Blue, 64 GB)",4.1,10890,48,other_types,6000,64,4,not mentioned,11
+"SAMSUNG A52s 5G (Awesome Black, 128 GB)",4.0,30990,64,other_types,4500,128,6,not mentioned,11
+"SAMSUNG Galaxy S20 FE (Cloud Lavender, 128 GB)",4.0,27944,32,HD+ AMOLED,4500,128,8,not mentioned,10
+"SAMSUNG Galaxy A53 (Awesome Blue, 128 GB)",4.1,31999,64,HD+ AMOLED,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy A03 (Blue, 32 GB)",4.0,8991,48,other_types,5000,32,3,not mentioned,11
+"SAMSUNG Galaxy A03s (Blue, 32 GB)",4.1,11499,13,LCD,5000,32,3,Heilo356765,11
+"SAMSUNG Galaxy F42 5G (Matte Aqua, 128 GB)",4.1,22999,64,other_types,5000,128,8,Dimensity700,11
+"SAMSUNG Galaxy A03 Core (Green, 32 GB)",4.2,8403,8,LCD,5000,32,2,not mentioned,11
+"SAMSUNG Galaxy A34 5G (Awesome Silver, 256 GB)",4.0,31990,48,other_types,5000,256,8,"Dimensity1080,",13
+"SAMSUNG Galaxy A03s (Black, 32 GB)",4.4,11499,13,LCD,5000,32,3,Heilo356765,11
+"SAMSUNG Galaxy A03s (Black, 64 GB)",4.3,14499,13,LCD,5000,64,4,Heilo356765,11
+"SAMSUNG Galaxy F12 (Sea Green, 64 GB)",4.2,10890,48,other_types,6000,64,4,not mentioned,11
+"SAMSUNG A04 e (Copper, 64 GB)",4.1,9999,13,other_types,5000,64,3,Heilo67653512,4
+"SAMSUNG Galaxy A03 (Red, 32 GB)",3.7,9498,48,other_types,5000,32,3,not mentioned,11
+"SAMSUNG Galaxy M53 5G (Deep Ocean Blue, 128 GB)",4.2,26999,108,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy A50 (Black, 64 GB)",4.3,21000,25,AMOLED,4000,64,4,not mentioned,9
+"SAMSUNG Galaxy A13 (Black, 128 GB)",4.1,14999,50,other_types,5000,128,4,not mentioned,12
+"SAMSUNG Galaxy A34 5G (Awesome Lime, 128 GB)",4.3,28999,48,other_types,5000,128,6,"Dimensity1080,",13
+"SAMSUNG Galaxy A03 Core (Blue, 32 GB)",4.1,8150,8,LCD,5000,32,2,not mentioned,11
+"SAMSUNG Galaxy A12 (Blue, 64 GB)",4.2,14999,48,LCD,5000,64,4,Heilo356765,10
+"SAMSUNG Galaxy A32 (Awesome Black, 128 GB)",4.2,20999,64,AMOLED,5000,128,8,Heilo80P,11
+"SAMSUNG Galaxy A14 (Silver, 64 GB)",3.9,13999,50,LCD,5000,64,4,not mentioned,13
+"SAMSUNG Galaxy A33 (Awesome Peach, 128 GB)",4.1,25999,48,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy A04e (Copper, 128 GB)",4.1,11499,13,LCD,5000,128,4,not mentioned,12
+"SAMSUNG Galaxy M14 5G (Icy Silver, 128 GB)",4.2,16490,50,other_types,6000,128,6,not mentioned,13
+"SAMSUNG Galaxy A14 (Black, 64 GB)",3.9,13999,50,LCD,5000,64,4,not mentioned,13
+"SAMSUNG Galaxy M14 5G (Smoky Teal, 128 GB)",4.2,14989,50,other_types,6000,128,4,not mentioned,13
+"SAMSUNG Galaxy A52 (Awesome Blue, 128 GB)",4.3,25989,64,HD+ AMOLED,4500,128,6,Snapdragon720GProcessor,11
+"SAMSUNG Galaxy Z Flip4 5G (Pink Gold, 256 GB)",3.7,29463,12,HD+ AMOLED,3700,256,8,Snapdragon1P,12
+"SAMSUNG Galaxy A34 5G (Awesome Silver, 128 GB)",4.3,28700,48,other_types,5000,128,6,"Dimensity1080,",13
+"SAMSUNG Galaxy F12 (Sky Blue, 128 GB)",4.3,11990,48,other_types,6000,128,4,not mentioned,11
+"SAMSUNG Galaxy A34 5G (Awesome Violet, 128 GB)",4.3,28999,48,other_types,5000,128,6,"Dimensity1080,",13
+"SAMSUNG M32 5G (Slate Black, 128 GB)",4.1,16999,48,other_types,5000,128,6,Dimensity720,11
+"SAMSUNG Galaxy M31s (Mirage Black, 128 GB)",4.2,22898,64,other_types,6000,128,6,not mentioned,10
+"SAMSUNG Galaxy A34 5G (Awesome Graphite, 128 GB)",4.3,28999,48,other_types,5000,128,6,"Dimensity1080,",13
+"SAMSUNG Galaxy A04 (Black, 64 GB)",4.0,11199,50,LCD,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy A04 (Copper, 128 GB)",4.0,12799,50,LCD,5000,128,4,not mentioned,12
+"SAMSUNG Galaxy A22 (Black, 128 GB)",4.2,20499,48,AMOLED,5000,128,6,Heilo806769,11
+"SAMSUNG Galaxy M12 (Blue, 128 GB)",4.2,15499,48,other_types,6000,128,6,not mentioned,11
+"SAMSUNG Galaxy Z Flip4 5G (Graphite, 128 GB)",3.7,24463,12,HD+ AMOLED,3700,128,8,Snapdragon1P,12
+"SAMSUNG Galaxy A33 (Awesome Black, 128 GB)",4.1,27699,48,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy A23 (Black, 128 GB)",4.3,18790,50,other_types,5000,128,8,not mentioned,12
+"SAMSUNG A04 E (Copper, 128 GB)",4.1,11499,13,other_types,5000,128,4,not mentioned,4
+"SAMSUNG Galaxy A04e (Light Blue, 128 GB)",4.1,11499,13,LCD,5000,128,4,not mentioned,12
+"SAMSUNG Galaxy A52 (Awesome Black, 128 GB)",4.3,24999,64,HD+ AMOLED,4500,128,6,Snapdragon720GProcessor,11
+"SAMSUNG Galaxy A13 (Black, 64 GB)",4.1,18490,50,other_types,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy J6 (Blue, 64 GB)",4.5,9999,13,other_types,3000,64,4,not mentioned,8
+"SAMSUNG Galaxy A13 (Blue, 128 GB)",4.2,16499,50,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy F12 (Sea Green, 128 GB)",4.3,12990,48,other_types,6000,128,4,not mentioned,11
+"SAMSUNG M53 5G (Mystique Green, 128 GB)",4.1,26999,108,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy A70s (Prism Crush White, 128 GB)",4.3,30500,64,other_types,4500,128,8,not mentioned,9
+"SAMSUNG Galaxy On Nxt (Black, 64 GB)",4.3,17900,13,other_types,3300,64,3,not mentioned,6
+"SAMSUNG Galaxy Z Flip4 5G (Bora Purple, 128 GB)",3.7,24463,12,HD+ AMOLED,3700,128,8,Snapdragon1P,12
+"SAMSUNG Galaxy A14 (Black, 128 GB)",3.9,15499,50,LCD,5000,128,4,not mentioned,13
+"SAMSUNG Galaxy A14 (Light Green, 128 GB)",3.9,15499,50,LCD,5000,128,4,not mentioned,13
+"SAMSUNG Galaxy A13 (Green, 64 GB)",4.1,15999,50,other_types,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy J6 (Black, 64 GB)",4.5,9999,13,other_types,3000,64,4,not mentioned,8
+"SAMSUNG Galaxy On Nxt (Gold, 64 GB)",4.3,17900,13,other_types,3300,64,3,not mentioned,6
+"SAMSUNG Galaxy On Max (Gold, 32 GB)",4.3,19900,13,other_types,3300,32,4,MediaTek,7
+"SAMSUNG Galaxy M32 (Light Blue, 64 GB)",4.2,16999,48,other_types,6000,64,4,not mentioned,11
+"SAMSUNG Galaxy M34 5G without charger (Prism Silver, 128 GB)",3.7,24490,50,other_types,6000,128,8,not mentioned,13
+"SAMSUNG Galaxy A13 (Peach, 64 GB)",4.2,14499,50,other_types,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy S22 ultra 5G (Burgundy, 256 GB)",4.4,23463,108,other_types,5000,256,12,not mentioned,12
+"SAMSUNG Galaxy M34 5G without charger (Prism Silver, 128 GB)",3.7,21299,50,other_types,6000,128,6,not mentioned,13
+"SAMSUNG Galaxy On6 (Blue, 64 GB)",4.3,17600,13,other_types,3000,64,4,not mentioned,8
+"SAMSUNG Galaxy Z Flip4 5G (Pink Gold, 128 GB)",4.2,24463,12,HD+ AMOLED,3700,128,8,Snapdragon1P,12
+"SAMSUNG Galaxy A23 (Peach, 128 GB)",4.0,18990,50,other_types,5000,128,8,not mentioned,12
+"SAMSUNG Galaxy A12 (Blue, 64 GB)",4.5,13999,48,LCD,5000,64,4,not mentioned,11
+"SAMSUNG Galaxy On Max (Black, 32 GB)",4.1,19900,13,other_types,3300,32,4,MediaTek,7
+"SAMSUNG Galaxy Z Fold3 5G (Phantom Green, 256 GB)",4.3,18927,12,AMOLED,4400,256,12,Snapdragon888,11
+"SAMSUNG Galaxy A13 (Green, 128 GB)",4.3,19990,50,other_types,5000,128,4,not mentioned,12
+"SAMSUNG Galaxy F02s (Diamond Blue, 64 GB)",4.2,10990,13,other_types,5000,64,4,Snapdragon450,10
+"SAMSUNG Galaxy M30s (Quartz Green, 64 GB)",4.2,12990,48,other_types,6000,64,4,not mentioned,9
+"SAMSUNG Galaxy J3 Pro (Black, 16 GB)",4.2,8490,8,other_types,2600,16,2,not mentioned,10
+"SAMSUNG Galaxy A13 (Blue, 128 GB)",4.1,15499,50,other_types,5000,128,4,not mentioned,12
+"SAMSUNG Galaxy J3 Pro (Gold, 16 GB)",4.2,8490,8,other_types,2600,16,2,not mentioned,5
+"SAMSUNG Galaxy S22 5G (Green, 256 GB)",4.3,14463,50,AMOLED,3700,256,8,not mentioned,12
+"SAMSUNG Galaxy S22 Ultra 5G (Phantom White, 256 GB)",4.2,26462,108,AMOLED,5000,256,12,not mentioned,12
+"SAMSUNG Galaxy Z Fold4 5G (Graygreen, 256 GB)",4.2,23927,50,HD+ AMOLED,4400,256,12,Snapdragon1P,12
+"SAMSUNG Galaxy M12 (White, 128 GB)",4.1,16999,48,other_types,6000,128,6,not mentioned,11
+"SAMSUNG Galaxy A30s (Prism Crush White, 64 GB)",4.3,18900,25,other_types,4000,64,4,not mentioned,9
+"SAMSUNG Galaxy A50s (Prism Crush Violet, 128 GB)",4.3,21070,48,other_types,4000,128,4,not mentioned,9
+"SAMSUNG Galaxy On Nxt (Gold, 16 GB)",4.3,11200,13,other_types,3300,16,3,not mentioned,6
+"SAMSUNG Galaxy A50s (Prism Crush Black, 128 GB)",2.9,21070,48,other_types,4000,128,4,not mentioned,9
+"SAMSUNG Galaxy Z Fold4 5G (Phantom Black, 256 GB)",3.9,23927,50,HD+ AMOLED,4400,256,12,Snapdragon1P,12
+"SAMSUNG M01 core (Blue, 32 GB)",4.2,6490,8,LCD,3000,32,2,MediaTek,10
+"SAMSUNG Galaxy A03s (Blue, 64 GB)",4.2,11499,50,LCD,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy M14 5G (ICY Silver, 128 GB)",4.2,14885,50,other_types,6000,128,4,Snapdragon(SDM450-F01),10
+"SAMSUNG Galaxy M14 5G (Smoky Teal, 128 GB)",4.2,17989,50,other_types,6000,128,6,not mentioned,13
+"SAMSUNG Galaxy M14 5G (Berry Blue, 128 GB)",4.2,15490,50,other_types,6000,128,6,not mentioned,13
+"SAMSUNG Galaxy M52 5G (Icy Blue, 128 GB)",4.4,28999,64,other_types,5000,128,6,not mentioned,11
+"SAMSUNG Galaxy A50 (Black, 64 GB)",4.4,24000,25,AMOLED,4000,64,6,not mentioned,9
+"SAMSUNG Galaxy M52 5G (Blazing Black, 128 GB)",4.4,24999,64,other_types,5000,128,6,not mentioned,11
+"SAMSUNG Galaxy S23 Ultra 5G (Green, 1 TB)",4.0,23927,200,HD+ AMOLED,5000,1,12,Gen8,13
+"SAMSUNG Galaxy A04 (Copper, 64 GB)",4.4,11199,50,LCD,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy J6 (Blue, 32 GB)",4.3,11500,13,other_types,3000,32,3,not mentioned,8
+"SAMSUNG Galaxy S22 5G (Phantom White, 256 GB)",4.2,7463,50,AMOLED,3700,256,8,not mentioned,12
+"SAMSUNG Galaxy M11 (Black, 32 GB)",4.3,12999,13,LCD,5000,32,3,Snapdragon(SDM450-F01),10
+"SAMSUNG Galaxy Z Flip4 5G (Bora Purple, 256 GB)",4.3,29463,12,HD+ AMOLED,3700,256,8,Snapdragon1P,12
+"SAMSUNG Galaxy A50s (Prism Crush White, 128 GB)",4.3,24900,48,other_types,4000,128,4,not mentioned,9
+"SAMSUNG Galaxy M33 5G (Deep Ocean Blue, 128 GB)",3.9,19990,50,other_types,6000,128,8,not mentioned,13
+"SAMSUNG Galaxy A14 (Silver, 128 GB)",4.2,16399,50,LCD,5000,128,4,not mentioned,12
+"SAMSUNG Galaxy F54 5G (Meteor Blue, 256 GB)",4.1,29999,108,HD+ AMOLED,6000,256,8,not mentioned,13
+"SAMSUNG Galaxy A14 (Light Green, 64 GB)",3.9,13999,50,LCD,5000,64,4,not mentioned,13
+"SAMSUNG Galaxy S22 5G (Phantom Black, 256 GB)",4.3,7463,50,AMOLED,3700,256,8,not mentioned,12
+"SAMSUNG Galaxy A13 (Blue, 64 GB)",4.1,14990,50,other_types,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy M12 (Black, 128 GB)",4.0,16999,48,other_types,6000,128,6,not mentioned,11
+"SAMSUNG Galaxy S22 Plus 5G (Green, 256 GB)",4.3,23463,50,AMOLED,4500,256,8,Gen8,12
+"SAMSUNG Galaxy S22 5G (Phantom White, 128 GB)",4.4,7454,50,AMOLED,3700,128,8,not mentioned,12
+"SAMSUNG Galaxy A7 (Black, 64 GB)",4.1,22300,24,AMOLED,3300,64,4,not mentioned,8
+"SAMSUNG GALAXY M13 5G (Aqua Green, 128 GB)",4.2,14990,50,other_types,5000,128,6,not mentioned,12
+"SAMSUNG Galaxy A04s (Copper, 128 GB)",4.0,14499,50,other_types,5000,128,4,not mentioned,12
+"SAMSUNG S22 Ultra 5G (Burgundy, 256 GB)",4.3,23463,108,other_types,5000,256,12,not mentioned,10
+"SAMSUNG Galaxy A22 5G (Violet, 128 GB)",4.1,19999,48,other_types,5000,128,8,Dimensity700,11
+"SAMSUNG Galaxy A22 5G (Gray, 128 GB)",4.3,15690,48,TFT,5000,128,6,Dimensity700,11
+"SAMSUNG Galaxy F12 (Celestial Black, 64 GB)",4.3,10499,48,other_types,6000,64,4,not mentioned,10
+"SAMSUNG Galaxy M21 (Midnight Blue, 64 GB)",4.2,14248,48,other_types,6000,64,4,not mentioned,11
+"SAMSUNG Galaxy A12 (White, 64 GB)",4.3,11975,48,LCD,5000,64,4,not mentioned,10
+"SAMSUNG Galaxy F41 (Fusion Black, 64 GB)",4.0,15999,64,other_types,6000,64,6,not mentioned,9
+"SAMSUNG Galaxy On6 (Black, 64 GB)",4.4,17600,13,AMOLED,4000,64,6,not mentioned,9
+"SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",4.2,23999,64,AMOLED,5000,128,6,not mentioned,10
+"SAMSUNG Galaxy M42 5G (Prism Dot Black, 128 GB)",4.3,21450,48,other_types,6000,64,4,not mentioned,10
+"SAMSUNG Galaxy M30s (Blue, 64 GB)",4.1,13999,48,other_types,5000,128,8,not mentioned,9
+"SAMSUNG Galaxy A33 (Awesome White, 128 GB)",4.3,27499,48,other_types,6000,64,4,Snapdragon(SDM450-F01),7
+"SAMSUNG Galaxy M21 (Raven Black, 64 GB)",4.2,12999,48,LCD,5000,64,4,MediaTek,10
+"SAMSUNG Galaxy M11 (Violet, 64 GB)",4.4,12999,13,other_types,4000,32,2,not mentioned,12
+"SAMSUNG Galaxy A10s (Blue, 32 GB)",4.6,9490,13,other_types,3300,64,6,Snapdragon(SDM439),10
+"SAMSUNG Galaxy Note 8 (Orchid Grey, 64 GB)",4.2,8464,12,LCD,4000,32,3,not mentioned,10
+"SAMSUNG Galaxy M01 (Red, 32 GB)",4.2,8999,13,other_types,6000,64,4,Snapdragon(SDM450-F01),10
+"SAMSUNG Galaxy M32 Prime Edition (Black, 64 GB)",4.2,12185,64,LCD,5000,32,3,not mentioned,11
+"SAMSUNG Galaxy M11 (Metallic Blue, 32 GB)",4.3,10999,13,other_types,6000,64,6,not mentioned,11
+"SAMSUNG Galaxy A22 5G (Gray, 128 GB)",4.1,23999,64,TFT,5000,128,6,Dimensity700,11
+"SAMSUNG Galaxy F42 5G (Matte Aqua, 128 GB)",4.3,20999,48,other_types,5000,128,6,Dimensity700,10
+"SAMSUNG Galaxy F22 (Denim Black, 128 GB)",3.9,13499,8,other_types,6000,16,1,Heilo80P,11
+"SAMSUNG Galaxy F02s (Diamond White, 32 GB)",4.2,10499,64,other_types,5000,128,6,Snapdragon450,12
+"SAMSUNG Galaxy M32 (Light Blue, 128 GB)",4.0,13402,64,other_types,6000,128,6,not mentioned,12
+"SAMSUNG Galaxy A53 (Awesome Black, 128 GB)",4.2,31999,5,HD+ AMOLED,5000,16,1,not mentioned,11
+"SAMSUNG Galaxy M32 Prime Edition (Light Blue, 64 GB)",4.2,11370,64,other_types,6000,128,6,not mentioned,12
+"SAMSUNG Galaxy A22 (Black, 128 GB)",4.0,16999,48,other_types,5000,128,6,not mentioned,11
+"SAMSUNG Galaxy A53 (Awesome Peach, 128 GB)",4.2,31999,64,HD+ AMOLED,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy A12 (Blue, 64 GB)",4.2,12999,48,LCD,5000,64,4,not mentioned,11
+"SAMSUNG Galaxy M32 Prime Edition (Light Blue, 64 GB)",4.1,12678,50,other_types,6000,64,4,not mentioned,12
+"SAMSUNG Galaxy A03 (Blue, 64 GB)",4.1,11499,13,other_types,5000,64,4,not mentioned,10
+"SAMSUNG Galaxy A13 (White, 64 GB)",4.3,14499,5,other_types,5000,128,4,not mentioned,11
+"SAMSUNG M02s (Blue, 32 GB)",4.0,8597,64,other_types,5000,8,1,Snapdragon450P,11
+"SAMSUNG Galaxy M32 5G (Sky Blue, 128 GB)",4.2,18999,48,other_types,5000,128,8,not mentioned,10
+"SAMSUNG Galaxy M42 5G (Prism Dot Gray, 128 GB)",4.2,20909,48,AMOLED,5000,128,6,Snapdragon750G,10
+"SAMSUNG Galaxy M02 (Black, 32 GB)",4.1,7430,13,other_types,5000,32,2,MediaTek,9
+"SAMSUNG Galaxy M32 Prime Edition (Black, 64 GB)",4.2,11400,48,other_types,6000,64,4,not mentioned,10
+"SAMSUNG Galaxy A21s (Blue, 64 GB)",4.2,19999,32,other_types,5000,64,6,not mentioned,11
+"SAMSUNG Galaxy M40 (Midnight Blue, 128 GB)",4.0,15798,13,other_types,3500,128,6,MediaTek,11
+"SAMSUNG Galaxy A12 (Black, 64 GB)",4.3,12999,48,LCD,5000,64,4,not mentioned,11
+"SAMSUNG Galaxy F12 (Celestial Black, 128 GB)",3.6,11499,5,other_types,6000,128,4,not mentioned,12
+"SAMSUNG Galaxy M32 5G (Slate Black, 128 GB)",4.2,18499,64,other_types,5000,128,8,Heilo80P,10
+"SAMSUNG Galaxy A32 (Awesome Blue, 128 GB)",4.3,23499,64,AMOLED,5000,128,8,not mentioned,10
+"SAMSUNG Galaxy M32 Prime Edition (Black, 128 GB)",4.3,14499,48,other_types,6000,128,6,not mentioned,13
+"SAMSUNG Galaxy A51 (Prism Crush Blue, 128 GB)",4.2,27999,13,AMOLED,4000,128,8,Snapdragon450,5
+"SAMSUNG Galaxy F02s (Diamond Blue, 32 GB)",4.2,9499,48,other_types,5000,32,3,"Dimensity1080,",1
+"SAMSUNG Galaxy M32 5G (Sky Blue, 128 GB)",4.2,19999,13,other_types,5000,128,8,Snapdragon410,11
+"SAMSUNG Galaxy A12 (Blue, 128 GB)",4.8,14999,8,LCD,5000,128,4,not mentioned,11
+"SAMSUNG M21 2021 Edition (Charcoal Black, 64 GB)",4.2,11530,48,other_types,6000,64,4,not mentioned,10
+"SAMSUNG Galaxy A52 (Awesome Violet, 128 GB)",4.3,31999,64,HD+ AMOLED,4500,128,8,Snapdragon720GProcessor,11
+"SAMSUNG M02s (Black, 64 GB)",4.2,10190,13,other_types,5000,64,4,Snapdragon450P,6
+"SAMSUNG Galaxy M32 (Black, 128 GB)",4.3,13402,64,other_types,6000,128,6,not mentioned,12
+"SAMSUNG Galaxy On Nxt (Black, 16 GB)",4.1,11200,13,other_types,3300,16,3,not mentioned,11
+"SAMSUNG Galaxy A33 (Awesome White, 128 GB)",4.3,25999,48,other_types,5000,128,6,not mentioned,11
+"SAMSUNG Galaxy A22 5G (Mint, 128 GB)",4.2,19999,48,TFT,5000,128,6,Dimensity700,10
+"SAMSUNG Galaxy M32 5G (Slate Black, 128 GB)",4.2,19000,64,other_types,6000,128,8,not mentioned,11
+"SAMSUNG Galaxy M31s (Mirage Black, 128 GB)",4.3,17999,48,other_types,6000,128,6,not mentioned,12
+"SAMSUNG Galaxy F22 (Denim Black, 64 GB)",4.3,11499,50,other_types,6000,64,4,Heilo80P,11
+"SAMSUNG Galaxy A23 (Peach, 128 GB)",4.3,18999,64,other_types,5000,128,8,not mentioned,10
+"SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",4.0,25999,13,HD+ AMOLED,7000,128,8,not mentioned,11
+"SAMSUNG Galaxy M02 (Blue, 32 GB)",4.0,7399,13,other_types,5000,32,2,MediaTek,10
+"SAMSUNG Galaxy A03s (White, 64 GB)",4.2,14499,48,LCD,5000,64,4,Heilo356765,10
+"SAMSUNG Galaxy A21s (White, 64 GB)",4.0,13999,13,other_types,5000,64,4,not mentioned,6
+"SAMSUNG Galaxy M02 (Gray, 32 GB)",3.9,7364,16,other_types,5000,32,2,MediaTek,12
+"SAMSUNG Galaxy A7-2017 (Gold Sand, 32 GB)",4.3,25900,64,other_types,3600,32,3,not mentioned,12
+"SAMSUNG Galaxy M32 Prime Edition (Light Blue, 128 GB)",4.1,14640,50,other_types,6000,128,6,not mentioned,10
+"SAMSUNG Galaxy A13 (Peach, 128 GB)",4.0,14999,3,other_types,5000,128,4,not mentioned,11
+"SAMSUNG Galaxy A12 (Black, 64 GB)",4.3,13999,64,LCD,5000,64,4,not mentioned,12
+"SAMSUNG Galaxy A22 5G (Mint, 128 GB)",4.1,17700,48,TFT,5000,128,8,Dimensity700,11
+"SAMSUNG Galaxy M32 Prime Edition (Light Blue, 128 GB)",4.3,14640,64,other_types,6000,128,6,not mentioned,11
+"SAMSUNG Galaxy A12 (Black, 128 GB)",4.1,17999,48,LCD,5000,128,6,not mentioned,9
+"SAMSUNG M21 2021 Edition (Charcoal Black, 128 GB)",4.3,16989,48,other_types,6000,128,6,not mentioned,11
+"SAMSUNG Galaxy A10s (Black, 32 GB)",4.3,11000,13,other_types,4000,32,3,MediaTek,10
+"SAMSUNG Galaxy A52 (Awesome White, 128 GB)",4.4,30499,64,HD+ AMOLED,4500,128,6,Snapdragon720GProcessor,11
+"SAMSUNG GALAXY M51 (ELECTRIC BLUE, 128 GB)",4.2,17996,64,other_types,7000,128,6,not mentioned,10
+"SAMSUNG Galaxy M32 5G (Sky Blue, 128 GB)",4.2,19499,48,other_types,5000,128,8,not mentioned,10
+"SAMSUNG M02s (Black, 32 GB)",4.3,9490,13,other_types,5000,32,3,Snapdragon450P,11
+"SAMSUNG Galaxy A51 (Haze Crush Silver, 128 GB)",4.2,29999,48,AMOLED,4000,128,8,not mentioned,12
+"SAMSUNG Galaxy M32 5G (Sky Blue, 128 GB)",4.2,17990,48,other_types,5000,128,8,Dimensity720,10
+"SAMSUNG Galaxy A13 (White, 128 GB)",4.3,16499,50,other_types,5000,128,6,not mentioned,11
+"SAMSUNG Galaxy A51 (Haze Crush Silver, 128 GB)",4.3,20990,48,AMOLED,4000,128,6,not mentioned,11
+"SAMSUNG Galaxy F22 (Denim Blue, 64 GB)",4.2,11499,48,other_types,6000,64,4,Heilo80P,11
+"SAMSUNG Galaxy A22 (Mint, 128 GB)",4.2,20499,48,AMOLED,5000,128,6,Heilo806769,9
+"SAMSUNG Galaxy A22 (Mint, 128 GB)",4.3,16999,48,other_types,5000,128,6,not mentioned,10
+"SAMSUNG Galaxy A10s (Blue, 32 GB)",4.0,11000,13,other_types,4000,32,3,MediaTek,11
+"SAMSUNG Galaxy M02 (Black, 32 GB)",4.3,8499,13,other_types,5000,32,3,MediaTek,10
+"SAMSUNG Galaxy A52 (Awesome Violet, 128 GB)",4.2,30499,64,HD+ AMOLED,4500,128,6,Snapdragon720GProcessor,13
+"SAMSUNG Galaxy F02s (Diamond Black, 64 GB)",4.2,10990,13,other_types,5000,64,4,Snapdragon450,11
+"SAMSUNG Galaxy M34 5G (Graphite Black, 128 GB)",4.2,21999,50,other_types,6000,128,6,not mentioned,10
+"SAMSUNG Galaxy F62 (Laser Green, 128 GB)",4.2,23999,64,HD+ AMOLED,7000,128,6,not mentioned,11
+"SAMSUNG Galaxy M21 (Midnight Blue, 128 GB)",4.1,16499,48,other_types,6000,128,6,not mentioned,9
+"SAMSUNG Galaxy Z Fold3 5G (Phantom Black, 512 GB)",4.3,26927,12,AMOLED,4400,512,12,Snapdragon888,9
+"SAMSUNG Galaxy A20s (Black, 32 GB)",4.3,12900,13,other_types,4000,32,3,not mentioned,10
+"SAMSUNG Galaxy A20s (Blue, 32 GB)",4.2,12900,13,other_types,4000,32,3,not mentioned,10
+"SAMSUNG Galaxy M31 (Space Black, 128 GB)",4.2,16790,48,other_types,6000,128,6,not mentioned,10
+"SAMSUNG Galaxy M21 (Raven Black, 128 GB)",4.4,15980,64,other_types,6000,128,6,not mentioned,11
+"SAMSUNG GALAXY M51 (Celestial Black, 128 GB)",4.1,20990,48,other_types,7000,128,6,not mentioned,10
+"SAMSUNG Galaxy A22 5G (Gray, 128 GB)",4.4,15690,64,TFT,5000,128,6,Dimensity700,11
+"SAMSUNG Galaxy A71 (Haze Crush Silver, 128 GB)",4.3,29499,48,AMOLED,4500,128,8,not mentioned,12
+"SAMSUNG Galaxy F12 (Celestial Black, 64 GB)",4.1,10499,48,other_types,6000,64,4,not mentioned,10
+"SAMSUNG Galaxy A33 (Awesome Blue, 128 GB)",4.3,25999,48,other_types,5000,128,6,not mentioned,11
+"SAMSUNG Galaxy M21 (Midnight Blue, 64 GB)",4.1,14248,48,other_types,6000,64,4,not mentioned,12
+"SAMSUNG Galaxy M21 2021 Edition (Arctic Blue, 64 GB)",4.1,11490,50,other_types,6000,64,4,not mentioned,11
+"SAMSUNG Galaxy A13 (White, 128 GB)",4.2,14999,48,other_types,5000,128,4,not mentioned,10
+"SAMSUNG Galaxy A12 (White, 64 GB)",4.3,11975,64,LCD,5000,64,4,not mentioned,8
+"SAMSUNG Galaxy A10s (Green, 32 GB)",4.4,11000,13,other_types,3000,64,4,not mentioned,10
+"SAMSUNG Galaxy A50 (Blue, 64 GB)",3.1,18600,25,AMOLED,4000,64,6,not mentioned,11
+"SAMSUNG Galaxy F62 (Laser Grey, 128 GB)",4.1,23999,64,HD+ AMOLED,7000,128,6,Heilo356765,9
+"SAMSUNG Galaxy A12 (Blue, 128 GB)",4.2,17999,48,LCD,5000,128,6,Snapdragon750G,12
+"SAMSUNG Galaxy M42 5G (Prism Dot Black, 128 GB)",4.3,21450,48,AMOLED,5000,128,6,not mentioned,9
+"SAMSUNG Galaxy M30s (Blue, 64 GB)",4.1,13999,48,other_types,6000,64,4,not mentioned,10
+"SAMSUNG Galaxy A33 (Awesome White, 128 GB)",4.3,27499,48,other_types,5000,128,8,not mentioned,10
+"SAMSUNG Galaxy A70s (Prism Crush Red, 128 GB)",4.3,31000,64,other_types,4500,128,6,not mentioned,10
+"SAMSUNG Galaxy M21 (Raven Black, 64 GB)",4.2,12999,48,other_types,6000,64,4,not mentioned,7
+"SAMSUNG Galaxy A21s (Silver, 128 GB)",4.2,16999,48,other_types,5000,128,6,Snapdragon(SDM450-F01),10
+"SAMSUNG Galaxy M11 (Violet, 64 GB)",4.4,12999,13,LCD,5000,64,4,not mentioned,9
+"SAMSUNG Galaxy A10s (Blue, 32 GB)",4.6,9490,13,other_types,4000,32,2,Snapdragon(SDM439),12
+"SAMSUNG Galaxy Note 8 (Orchid Grey, 64 GB)",4.2,8464,12,other_types,3300,64,6,not mentioned,10
+"SAMSUNG Galaxy M01 (Red, 32 GB)",4.3,8999,13,LCD,4000,32,3,not mentioned,10
+"SAMSUNG Galaxy A70s (Prism Crush White, 128 GB)",4.2,31000,64,other_types,4500,128,6,Snapdragon(SDM450-F01),10
+"SAMSUNG Galaxy M32 Prime Edition (Black, 64 GB)",4.2,12185,64,other_types,6000,64,4,not mentioned,8
+"SAMSUNG Galaxy M11 (Metallic Blue, 32 GB)",4.3,10999,13,LCD,5000,32,3,not mentioned,11
+"SAMSUNG Galaxy F41 (Fusion Blue, 64 GB)",4.3,15999,64,other_types,6000,64,6,not mentioned,8
+"SAMSUNG Galaxy A52 (Awesome Black, 128 GB)",4.3,31999,64,HD+ AMOLED,4500,128,8,Snapdragon720GProcessor,12
+"SAMSUNG Galaxy J6 (Black, 32 GB)",4.4,11500,13,other_types,3000,32,3,not mentioned,7
+"SAMSUNG Galaxy M32 Prime Edition (Black, 128 GB)",4.3,15200,64,other_types,6000,128,6,not mentioned,10
+"SAMSUNG Galaxy J2 2018 (Gold, 16 GB)",4.5,8200,8,other_types,2600,16,2,Snapdragon425P,11
+"SAMSUNG Galaxy A12 (Blue, 128 GB)",4.1,17999,48,LCD,5000,128,6,Heilo356765,10
+"SAMSUNG M32 5G (Sky blue, 128 GB)",4.2,16200,48,other_types,5000,128,6,Dimensity720,10
+"SAMSUNG Galaxy M01 (Blue, 32 GB)",4.6,8999,13,LCD,4000,32,3,Snapdragon(SDM439),8
+"SAMSUNG Galaxy F41 (Fusion Blue, 128 GB)",4.4,14499,64,other_types,6000,128,6,not mentioned,8
+"SAMSUNG Galaxy A7 (Gold, 64 GB)",4.2,22300,24,AMOLED,3300,64,4,not mentioned,13
+"SAMSUNG Galaxy J2 Core (Black, 16 GB)",4.4,6999,8,LCD,2600,16,1,not mentioned,11
+"SAMSUNG Galaxy S23 Ultra 5G (Phantom Black, 1 TB)",4.1,23927,200,HD+ AMOLED,5000,1,12,Gen8,10
+"SAMSUNG Galaxy F42 5G (Matte Black, 128 GB)",4.3,20999,64,other_types,5000,128,6,Dimensity700,10
+"SAMSUNG Galaxy F41 (Fusion Green, 64 GB)",4.3,15999,64,other_types,6000,64,6,not mentioned,11
+"SAMSUNG M31s (Mirage Blue, 128 GB)",4.1,24999,64,AMOLED,6000,128,8,not mentioned,9
+"SAMSUNG Galaxy A32 (Awesome Blue, 128 GB)",4.4,24999,64,HD+ AMOLED,5000,128,6,Heilo80P,9
+"SAMSUNG Galaxy A50 (White, 64 GB)",4.3,24000,25,AMOLED,4000,64,6,not mentioned,11
+"SAMSUNG Galaxy A70 (Blue, 128 GB)",4.4,30900,32,other_types,4500,128,6,not mentioned,10
+"SAMSUNG Galaxy F22 (Denim Blue, 128 GB)",4.1,13499,48,other_types,6000,128,6,Heilo80P,11
+"SAMSUNG Galaxy M01 (Black, 32 GB)",4.2,8999,13,LCD,4000,32,3,Snapdragon(SDM439),4
+"SAMSUNG Galaxy M42 (Prism Dot Gray, 128 GB)",4.2,18990,48,other_types,5000,128,8,Snapdragon750GProcessor,10
+"SAMSUNG Galaxy core prime (Milky White, 8 GB)",4.1,8999,5,other_types,2000,8,1,not mentioned,10
+"SAMSUNG GALAXY M31S (Mirage Black, 128 GB)",4.3,23900,64,other_types,6000,128,8,not mentioned,10
+"SAMSUNG Galaxy M21 (Iceberg Blue, 64 GB)",4.2,14775,48,other_types,6000,64,4,not mentioned,10
+"SAMSUNG Galaxy A21s (Black, 128 GB)",4.0,16999,48,other_types,5000,128,6,not mentioned,10
+"SAMSUNG Galaxy M02 (Gray, 32 GB)",4.3,8499,13,other_types,5000,32,3,MediaTek,13
+"SAMSUNG Galaxy M31 (Space Black, 128 GB)",4.5,18799,64,other_types,6000,128,8,not mentioned,10
+"SAMSUNG Galaxy S23 Plus 5G (Phantom Black, 256 GB)",4.3,29463,50,HD+ AMOLED,4700,256,8,Gen8,9
+"SAMSUNG Galaxy A51 (Prism Crush Black, 128 GB)",4.3,20999,48,AMOLED,4000,128,6,not mentioned,11
+"SAMSUNG Galaxy A70 (Black, 128 GB)",4.2,30900,32,other_types,4500,128,6,not mentioned,13
+"SAMSUNG Galaxy M52 5G (Blazing Black, 128 GB)",4.1,23068,64,other_types,5000,128,6,not mentioned,9
+"SAMSUNG Galaxy A20s (Green, 32 GB)",4.4,12900,13,other_types,4000,32,3,not mentioned,10
+"SAMSUNG Galaxy S23 Ultra 5G (Green, 1 TB)",4.3,23927,200,HD+ AMOLED,5000,1,12,Gen8,7
+"SAMSUNG Galaxy A70s (Prism Crush Red, 128 GB)",4.3,32000,64,other_types,4500,128,8,not mentioned,5
+"SAMSUNG Galaxy A31 (Prism Crush Black, 128 GB)",4.6,23999,48,AMOLED,5000,128,6,MediaTek,8
+"SAMSUNG Galaxy Note 8 (Midnight Black, 64 GB)",4.1,8464,12,other_types,3300,64,6,not mentioned,10
+"SAMSUNG Galaxy duos (White, 4 GB)",4.2,13390,5,other_types,1500,4,1,not mentioned,10
+"SAMSUNG Galaxy A7 (Blue, 64 GB)",4.4,22300,24,AMOLED,3300,64,4,not mentioned,11
+"SAMSUNG Galaxy Note 20 (Mystic Blue, 256 GB)",4.2,20464,64,HD+ AMOLED,4300,256,8,not mentioned,11
+"SAMSUNG Galaxy S20+ (Cosmic Black, 128 GB)",4.4,17464,64,AMOLED,4500,128,8,not mentioned,6
+"SAMSUNG Galaxy Z Flip3 5G (Phantom Black, 256 GB)",4.3,23463,12,HD+ AMOLED,3300,256,8,Snapdragon888,10
+"SAMSUNG Galaxy A12 (Blue, 128 GB)",4.5,12867,48,LCD,5000,128,6,not mentioned,8
+"SAMSUNG Galaxy J7 Prime (Gold, 32 GB)",4.3,15300,13,other_types,3300,32,3,not mentioned,8
+"SAMSUNG Galaxy A31 (Prism Crush Blue, 128 GB)",4.4,16999,48,AMOLED,5000,128,6,MediaTek,10
+"SAMSUNG Galaxy J8 (Blue, 64 GB)",4.4,17000,16,other_types,3500,64,4,Snapdragon450P,10
+"SAMSUNG Galaxy J8 (Black, 64 GB)",4.2,17000,16,other_types,3500,64,4,Snapdragon450P,10
+"SAMSUNG Galaxy M31s (Mirage Blue, 128 GB)",4.1,18999,64,other_types,6000,128,6,not mentioned,9
+"SAMSUNG Galaxy A32 (Awesome Black, 128 GB)",4.5,24999,64,other_types,5000,128,6,not mentioned,9
+"SAMSUNG Galaxy F41 (Fusion Black, 128 GB)",4.4,14499,64,other_types,6000,128,6,not mentioned,9
+"SAMSUNG Galaxy A10s (Black, 32 GB)",4.3,10000,13,other_types,4000,32,2,MediaTek,9
+"SAMSUNG Galaxy A50 (Blue, 64 GB)",4.2,21000,25,AMOLED,4000,64,4,not mentioned,8
+"SAMSUNG Galaxy M40 (Seawater Blue, 128 GB)",4.5,21490,32,other_types,3500,128,6,not mentioned,9
+"SAMSUNG Galaxy A30s (Prism Crush Violet, 64 GB)",4.3,16199,25,other_types,4000,64,4,not mentioned,12
+"SAMSUNG Galaxy J4 Plus (Black, 32 GB)",4.4,9000,13,other_types,3300,32,2,Snapdragon425P,8
+"SAMSUNG Galaxy M01s (Gray, 32 GB)",4.2,10999,13,other_types,4000,32,3,MediaTek,9
+"SAMSUNG Galaxy S22 (Pink Gold, 128 GB)",4.2,20463,50,other_types,3700,128,8,not mentioned,12
