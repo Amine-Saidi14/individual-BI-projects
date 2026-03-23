@@ -110,7 +110,8 @@ Insights obtained:
 Distribution of smartphones across price segments
 
 Overview of specification configurations within the portfolio
-<img width="945" height="559" alt="image" src="https://github.com/user-attachments/assets/9e6b4f56-1999-41a1-8ef4-4cbed49c4751" />
+<img width="1048" height="629" alt="image" src="https://github.com/user-attachments/assets/b8164c88-3e89-4a38-83ce-1444ef48b248" />
+
 
 
 Dashboard 2 — Performance Analysis
@@ -132,7 +133,8 @@ Insights obtained:
 Relationship between technical specifications and user satisfaction
 
 Identification of specification levels associated with higher ratings
-<img width="945" height="539" alt="image" src="https://github.com/user-attachments/assets/4fdbd7b2-0e88-4fd4-9de8-9de317ef3132" />
+<img width="1123" height="629" alt="image" src="https://github.com/user-attachments/assets/f8b481d4-050c-42de-ad93-1df9d5ee1320" />
+
 
 Dashboard 3 — Product Value Analysis
 
